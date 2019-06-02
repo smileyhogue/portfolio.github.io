@@ -118,10 +118,10 @@ experiences:
 #      #  link: "#hook"
 #      #  tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
-certifications:
-    title: Certifications
-    intro: |
-      
+recommendations:
+    title: Eric King
+    top: |
+      this is a test
 
     papers:
       - title: The Art of Computer Programming
