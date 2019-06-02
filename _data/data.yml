@@ -20,7 +20,6 @@ sidebar:
     gitlab:
     bitbucket:
     twitter: 
-    test: test
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
@@ -63,7 +62,7 @@ experiences:
       time: Nov 2017 to Present
       company: BizIQ
       details: |
-        ❖ Spearheaded the implementation of new protocols and an enhanced quality assurance process.
+        ❖ **Spearheaded the implementation of new protocols** and an enhanced quality assurance process.
         
         ❖ Reduced cancelation rates by 10% within the first 90 days of being promoted to supervisor.
         
