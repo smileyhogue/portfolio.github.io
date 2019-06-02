@@ -147,6 +147,12 @@ skills:
 
       - name: Linux
         level: 85%
+        
+      - name: Leadership
+        level: 75%
+        
+      - name: Business Development
+        level: 65%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
