@@ -10,17 +10,17 @@
     {{ publications.title }}
   </h2>
 
-  {% if publications.intro %}
+  {% if recommendations.top %}
   <div class="intro">
-    {{ publications.intro | markdownify }}
+    {{ recommendations.top | markdownify }}
   </div><!--//intro-->
   {% endif %}
 
-  {% for publication in publications.papers %}
+  {% for recommendations in recommendations.papers %}
   <div class="item">
-    <div class="publication-title">{{ publication.title }}</div>
-    <div class="publication-authors">{{ publication.authors }}</div>
-    <div class="publication-conference">{{ publication.conference }}</div>
+    <div class="publication-title">{{ recommendations.title }}</div>
+    <div class="publication-authors">{{ recommendations.authors }}</div>
+    <div class="publication-conference">{{ recommendations.conference }}</div>
   </div><!--//item-->
   {% endfor %}
 
