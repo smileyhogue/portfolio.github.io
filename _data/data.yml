@@ -117,15 +117,15 @@ experiences:
 #      #  link: "#hook"
 #      #  tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
-publications:
-    title: Publications
-    intro: |
-      
-
-    papers:
-      #- title: The Art of Computer Programming
-      #  authors: Donald E. Knuth
-      #  conference: Addison-Wesley, 1968
+#publications:
+#    title: Publications
+#    intro: |
+#      
+#
+#    papers:
+#      #- title: The Art of Computer Programming
+#      #  authors: Donald E. Knuth
+#      #  conference: Addison-Wesley, 1968
 
 skills:
     title: Skills &amp; Proficiency
