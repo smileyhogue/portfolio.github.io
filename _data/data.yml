@@ -104,17 +104,17 @@ experiences:
         
         ▪ Left this position in February 2017 when The ProctorU location in Chandler, Arizona permanently closed.
 
-projects:
-    title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-
-    assignments:
-      #- title: Velocity
-      #  link: "#hook"
-      #  tagline: "A responsive website template designed to help startups promote, market and sell their products."
+#projects:
+#    title: Projects
+#    intro: >
+#      You can list your side projects or open source libraries in this
+#      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+#      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+#
+#    assignments:
+#      #- title: Velocity
+#      #  link: "#hook"
+#      #  tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
 publications:
     title: Publications
