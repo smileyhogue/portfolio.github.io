@@ -132,6 +132,12 @@ skills:
     toolset:
       - name: Pay Per Click (PPC) Advertising
         level: 90%
+        
+      - name: Search Engine Optimization (SEO)
+        level: 80%
+        
+      - name: Leadership
+        level: 75%
 
       - name: Google Analytics
         level: 92%
@@ -139,17 +145,11 @@ skills:
       - name: Customer Service
         level: 95%
 
-      - name: Search Engine Optimization (SEO)
-        level: 80%
-
       - name: Web Development
         level: 80%
 
       - name: Linux
         level: 85%
-        
-      - name: Leadership
-        level: 75%
         
       - name: Business Development
         level: 65%
