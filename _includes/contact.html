@@ -1,5 +1,11 @@
 <div class="contact-container container-block">
   <ul class="list-unstyled contact-list">
+    
+    {% if sidebar.cv %}
+    <li class="goodreads-g"><i class="fab fa-goodreads-g"></i>
+      <a href="https://github.com/smileyhogue/smileyhogue.github.io/raw/master/{{ sidebar.cv }}" target="_blank">{{ sidebar.cv }}</a>
+    </li>
+    {% endif %}
 
     {% if sidebar.email %}
     <li class="email"><i class="fas fa-envelope"></i>
