@@ -15,9 +15,11 @@ if (update = "; Last updated 7/26/2019") {
   F6::
   FileCopy, update.txt, macro.ahk, 1
   FileDelete, update.txt
-  msgbox, The script will now close.  Please restart it to apply the update!
-  ExitApp
-  return
+  Reload
+  Sleep 1000 ; If successful, the reload will close this instance during the Sleep, so the line below will never be reached.
+  MsgBox, 4,, The script could not be reloaded. Would you like to open it for editing?
+  IfMsgBox, Yes, Edit
+return
   F4::
   msgbox, This script will not be updated!
   FileDelete, update.txt
