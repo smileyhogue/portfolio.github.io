@@ -1,4 +1,4 @@
-; Last updated 7/27/2019
+; Last updated 7/26/2019
 /*
 This is a test
 */
@@ -6,7 +6,7 @@ This is a test
 Update:
 URLDownloadToFile, https://raw.githubusercontent.com/smileyhogue/smileyhogue.github.io/master/macro.ahk, update.txt
 FileReadLine, update, update.txt, 1
-if (update = "; Last updated 7/27/2019") {
+if (update = "; Last updated 7/26/2019") {
   FileDelete, update.txt
   GoTo NoUpdate
 } else {
