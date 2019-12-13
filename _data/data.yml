@@ -66,11 +66,12 @@ experiences:
       time: Jul 2019 - Present
       company: ZipRecruiter
       details: |        
-        ▪ Facilitate the optimization of enterprise accounts alongside team members, 
-        other Enterprise Solutions Managers, Managers, Engineering, and Trust & Saftey.
-        
-        ▪ Establish Monthly and Quarterly goals with sales and clients.
-        
+        ❖	Manage enterprise performance marketing recruitment campaigns
+        ❖	Provide strategic support to sales representatives
+        ▪	Identify key areas of campaign improvement
+        ▪	Conduct quarterly business reviews
+        ▪	Ensure campaign success by tracking KPI's and analyzing campaign data
+
     - role: Paid Media Account Manager Supervisor
       time: Nov 2017 to July 2019
       company: BizIQ
@@ -147,26 +148,29 @@ skills:
       - name: Pay Per Click (PPC) Advertising
         level: 90%
         
+      - name: Google Analytics
+        level: 90%
+        
+      - name: Customer Service
+        level: 90%
+        
+      - name: HTML
+        level: 80%
+        
+      - name: Javascript
+        level: 80%
+        
       - name: Search Engine Optimization (SEO)
         level: 80%
         
       - name: Leadership
-        level: 75%
-
-      - name: Google Analytics
-        level: 92%
-
-      - name: Customer Service
-        level: 95%
-
-      - name: Web Development
-        level: 80%
-
-      - name: Linux
-        level: 85%
+        level: 65%
         
       - name: Business Development
         level: 65%
+        
+      - name: SQL
+        level: 60%
 
 footer: >
     
