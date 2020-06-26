@@ -62,8 +62,22 @@ education:
         
 
 experiences:
+    - role: Enterprise Implementation Specialist
+      time: Dec 2019 - Present
+      company: ZipRecruiter
+      details: |        
+        ▪ Partner with Account Managers to orchestrate the implementation of complex integrations with Applicant Tracking systems
+        
+        ▪ Manipulate XML and JSON feeds for use on internal systems using Feedonomics
+        
+        ▪ Responsible for the accurate and timely launch of new paid media campaigns
+        
+        ▪ Use all resources available to solve complex and urgent technical issues
+        
+        ▪ Frequently evaluated on metrics such as time to launch, QA issue percentages, and efficiency.
+
     - role: Enterprise Solutions Manager
-      time: Jul 2019 - Present
+      time: Jul 2019 - Dec 2019
       company: ZipRecruiter
       details: |        
         ❖	Manage enterprise performance marketing recruitment campaigns
