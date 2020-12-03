@@ -65,8 +65,12 @@ experiences:
     - role: Enterprise Implementation Specialist
       time: Dec 2019 - Present
       company: ZipRecruiter
-      details: |        
-        ▪ Partner with Account Managers to orchestrate the implementation of complex integrations with Applicant Tracking systems
+      details: | 
+        ❖ Build customized SQL queries to help identify issues with campaign implementations
+        
+        ❖ Join early conversations with out account managment and product strategy team to develop new and inovative implementation strategies
+        
+        ❖ Partner with Account Managers to orchestrate the implementation of complex integrations with Applicant Tracking systems
         
         ▪ Manipulate XML and JSON feeds for use on internal systems using Feedonomics
         
@@ -137,17 +141,16 @@ experiences:
         
         ▪ Left this position in February 2017 when The ProctorU location in Chandler, Arizona permanently closed.
 
-#projects:
-#    title: Projects
-#    intro: >
-#      You can list your side projects or open source libraries in this
-#      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-#      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-#
-#    assignments:
-#      #- title: Velocity
-#      #  link: "#hook"
-#      #  tagline: "A responsive website template designed to help startups promote, market and sell their products."
+projects:
+    title: Discord Stock Notification Bot
+    intro: >
+      I am an admin on a Discord community revolving around PC (and console) gaming that also provides stock alerts for popular new PC components, most recently
+      the NVidia 3000 series. I am one of two developers that have reversed engineered the retail APIs that we track and built the stock alert bot.
+
+    #assignments:
+      #- title: Velocity
+      #  link: "#hook"
+      #  tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
 recommendations:
     title: Eric King
