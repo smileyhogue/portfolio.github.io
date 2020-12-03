@@ -177,21 +177,24 @@ skills:
         
       - name: HTML
         level: 80%
+      
+      - name: Python
+        level: 80%
         
       - name: Javascript
-        level: 80%
+        level: 75%
+        
+      - name: SQL
+        level: 75%
         
       - name: Search Engine Optimization (SEO)
-        level: 80%
+        level: 60%
         
       - name: Leadership
-        level: 65%
+        level: 60%
         
       - name: Business Development
         level: 65%
-        
-      - name: SQL
-        level: 60%
 
 footer: >
     
