@@ -166,26 +166,17 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Pay Per Click (PPC) Advertising
-        level: 90%
-        
-      - name: Google Analytics
-        level: 90%
-        
-      - name: Customer Service
-        level: 90%
-        
-      - name: HTML
-        level: 80%
-      
       - name: Python
         level: 80%
         
       - name: Javascript
-        level: 75%
+        level: 75%        
         
       - name: SQL
         level: 75%
+  
+      - name: HTML
+        level: 70%
         
       - name: Search Engine Optimization (SEO)
         level: 60%
@@ -195,6 +186,15 @@ skills:
         
       - name: Business Development
         level: 65%
+      
+      - name: Pay Per Click (PPC) Advertising
+        level: 90%
+        
+      - name: Google Analytics
+        level: 90%
+        
+      - name: Customer Service
+        level: 90%
 
 footer: >
     
